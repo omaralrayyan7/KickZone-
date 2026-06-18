@@ -1,0 +1,8 @@
+# assets/images/
+
+Place your app images here. Supported formats: PNG, JPEG, WebP, GIF, SVG.
+
+Recommended assets:
+- logo.png  — KickZone shield logo (512x512)
+- indoor_court.jpg  — default indoor court background
+- outdoor_court.jpg — default outdoor court background
